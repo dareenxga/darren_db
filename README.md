@@ -1,11 +1,6 @@
 # darren_db
-darren的存储库
-xugouan asd asd
-asd 
-asd
- as
- d
- a s
- d 
- as d
- 
+darren的存储仓库：
+
+本仓库主要存储我的学习代码 和比赛的一些代码
+
+后续会逐一放入。
